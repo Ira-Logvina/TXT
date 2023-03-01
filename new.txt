@@ -1,0 +1,5 @@
+Name: Irina,
+Last_name: Logvina,
+Age: 29,
+Pet: dog,
+Dog's_name: Tory
