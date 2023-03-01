@@ -1,1 +1,11 @@
-
+ID: 1,
+Severity: Minor,
+Priority: Low,
+Environoment: Iphone 13 iOS 16.1,
+Title: The toggle [Background color] in setup of Coin or Ticker widget returns to the previous state after switching it,
+STR: 
+   Step_1: Open setup of Coin or Ticker widget,
+   Step_2: Toggle to the Background color
+Expected_Result: The toggle [Background color] is changed,
+Actual_Result: The toggle [Background color] returns to the previous state,
+Author: @IraLogvina
