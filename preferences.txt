@@ -1,0 +1,5 @@
+Favourite_film: Man_on_fire,
+Favourite_series: Prison_break,
+Favourite_cartoon: Up,
+Favourite_season: Summer,
+Favourite_country: Georgia
